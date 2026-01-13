@@ -1,8 +1,7 @@
-body{
-  background: lalala;
-  color: 00ff00;
-  font-family: 'courier new', monospace;
-  height: auto;
+body {
+  background: black;
+  color: #00ff00;
+  font-family: 'Courier New', monospace;
 }
 
 .terminal {
@@ -11,6 +10,7 @@ body{
   margin: 50px auto;
   border-radius: 8px;
 }
+
 .top-bar {
   background: #333;
   padding: 10px;
@@ -21,7 +21,7 @@ body{
   height: 12px;
   width: 12px;
   border-radius: 50%;
-  display: inline block;
+  display: inline-block;
   margin-right: 5px;
 }
 
@@ -36,3 +36,4 @@ body{
 .yellow {
   background: yellow;
 }
+
